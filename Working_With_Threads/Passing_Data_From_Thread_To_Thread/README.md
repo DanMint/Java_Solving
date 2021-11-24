@@ -1,0 +1,1 @@
+In this code i have passed data from one thread to another thread. Also in the main class the join part is very importnat/interresting. We use the join to wait for the first thread to finish and only then start the second thread!
