@@ -1,3 +1,3 @@
 # Java Solving
 
-In this repo I will post all the codes and projects that I did in my university using java.
+This repository contains the code I wrote during my Java class at the *Moscow Institute of Physics and Technology*.
